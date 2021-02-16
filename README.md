@@ -1,2 +1,2 @@
 # github.com
-pkg install python2
+Sms bombing
